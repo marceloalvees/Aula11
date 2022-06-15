@@ -1,15 +1,10 @@
-﻿namespace atividade11_modificadores_atributos_metodos
+﻿namespace mesa_de_trabalho
 {
-    internal class Program
+    public class Atividade09
     {
-
         public double resultado = 0;
         public double valor = 0;
         public string operacao = "";
-        static void Main(string[] args)
-        {
-            Inicio();
-        }
 
         public void Inicio()
         {
